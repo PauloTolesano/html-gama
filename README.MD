@@ -1,0 +1,1 @@
+Projeto gama sobre uma loja, em HTML e CSS.
